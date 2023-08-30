@@ -1,1 +1,2 @@
 # Informatica
+<img src="AQUI PONER LA URL DE LA IMAGEN" alt="TITULO DE LA IMAGEN" width="PORCENTAJE DE ANCHO %"/>
